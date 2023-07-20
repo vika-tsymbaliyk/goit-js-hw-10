@@ -49,3 +49,6 @@ img {
 .cat-name {
   text-align: center;
 }
+.cat-description {
+  padding: 15px;
+}
